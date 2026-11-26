@@ -4,7 +4,7 @@
 
 웹툰 〈똑 닮은 딸〉 1·2화의 딜레마를 서사 윤리와 모티프 개념으로 분석하고, 독자의 해석을 사건과 주장으로 구분한 관계 데이터로 구축하여, 독자가 인물 챗봇과 대화하며 작품의 빈칸을 채워 가도록 설계한 연구이다.
 
-- 챗봇: https://md-chatbot-nurq2pgfwsskd5ijdr5hbr.streamlit.app/
+- 챗봇: [https://md-chatbot-nurq2pgfwsskd5ijdr5hbr.streamlit.app/](https://md-chatbot-nurq2pgfwsskd5ijdr5hbr.streamlit.app/)
 - 포스터 PDF: https://drive.google.com/file/d/16X6IWwSx6fx3sDC9qFIJciDJ6wmxxfwS/view?usp=sharing
 
 ## 목차

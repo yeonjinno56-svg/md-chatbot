@@ -225,7 +225,7 @@
 
 **연구자.** 고려대학교 국어국문학과 1학년 노연진, 독어독문학과 3학년 홍선윤
 
-**실습 틀.** 본 연구의 데이터셋과 챗봇은 고려대학교 「디지털인문학응용」(2026년 2학기) 수업의 딜레마 데이터셋과 실습 도구를 바탕으로 제작하였다. 실습 틀(https://github.com/Song-yiJung/ku-2026-2-dh-chatbot)은 Claude Opus 5.5(Anthropic)로 제작하고 강의자가 검토하였다.
+**실습 틀.** 본 연구의 데이터셋과 챗봇은 고려대학교 「디지털인문학응용」(2026년 2학기) 수업의 딜레마 데이터셋과 실습 도구를 바탕으로 제작하였다. 실습 틀([https://github.com/Song-yiJung/ku-2026-2-dh-chatbot](https://github.com/Song-yiJung/ku-2026-2-dh-chatbot))은 Claude Opus 5.5(Anthropic)로 제작하고 강의자가 검토하였다.
 
 **AI 사용 표기.**
 
@@ -234,13 +234,13 @@
 | Gemini (gemini-3.8-flash) | 챗봇 답변 생성 |
 | Gemini | 프롬프트문 작성, 인물 대사 변형, 명소민 이미지 생성 |
 | Claude | app.py 변형(글씨색, 이미지 표시, 대화 기록, 대화 상대 선택), 데이터 변환, 포스터 문안 다듬기 |
-| [도구 이름] | 그래픽 초안, README 문장 다듬기 |
+| Claude | 그래픽 초안, README 문장 다듬기 |
 
 ## 11. 참고문헌
 
 - 이담. 〈똑 닮은 딸〉. 네이버 웹툰. 1·2화.
 - Iser, W. (1976). *Der Akt des Lesens: Theorie ästhetischer Wirkung*. München: Wilhelm Fink Verlag.
-- Phelan, J. ([연도]). Narrative Ethics. In P. Hühn et al. (Eds.), *the living handbook of narratology*. Hamburg: Hamburg University. https://www.lhn.uni-hamburg.de/node/108.html
+- Phelan, J. (2013). Narrative Ethics. In P. Hühn et al. (Eds.), *the living handbook of narratology*. Hamburg: Hamburg University. https://www.lhn.uni-hamburg.de/node/108.html
 - Pianzola, F. (2024). *Digital Social Reading: Sharing Fiction in the Twenty-First Century*. Cambridge, MA: The MIT Press. https://doi.org/10.7551/mitpress/14588.001.0001
 - Tomashevsky, B. (1965). Thematics. In L. T. Lemon & M. J. Reis (Eds.), *Russian Formalist Criticism: Four Essays*. Lincoln: University of Nebraska Press.
 
